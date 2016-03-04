@@ -3,7 +3,7 @@ room accoustic resonances
 
 determining resonances of my loudspeaker/room/microphone system.
 
-video: ...
+video: https://www.youtube.com/watch?v=ouMY5gEr1yQ
 
 keys:
 
